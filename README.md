@@ -7,4 +7,4 @@ To run the application:
 -------------------	
 
       $ sudo npm install
-      $ node server.js
+      $ node start
